@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+html {
+    background: url(/assets/background.jpg)  center fixed;
+    background-origin: content-box;
+}
+
+header .bolsa {
+    width: 50px;
+
+}
+
+header .linha {
+    width: 50px;
+   transform: rotatez(180deg);
+}
+
+.rodapé .twitter {
+    width: 25px;
+    height: 25px;
+}
+
+
+
+
